@@ -1,0 +1,10 @@
+{
+    "admin": {
+        "email": "admin@admin.com",
+        "senha": "123456"
+    },
+    "pgats": {
+        "email": "joaorobertopmf@gmail.com",
+        "senha": "123456"
+    }
+}
